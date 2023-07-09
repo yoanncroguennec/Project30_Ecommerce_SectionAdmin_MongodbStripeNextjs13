@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# OTHERS
+PROTECTED.md
